@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Database Assignment" id="C2E54BFD-7534-B672-DA4E-5C995EAF2E3E" version="3.5">
+<createdBy>satis</createdBy>
+<createdTime>2023-03-30 15:55:17 UTC</createdTime>
+<ownerDesignName>Database Assignment</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C2E54BFD-7534-B672-DA4E-5C995EAF2E3E</designId>
+</OSDM_Design>
